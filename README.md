@@ -1,4 +1,4 @@
-# Scheme Saathi – AI-Powered Welfare Scheme Eligibility Assistant
+# Scheme Saathi – AI-Powered  Social Welfare Scheme Eligibility Assistant
 
 **Team:** Trackila  
 **Members:** Gourav Bhatia, Divyansh Kumar, Arpit Verma
@@ -25,3 +25,4 @@ Scheme Saathi is an AI-powered chatbot that helps users discover welfare schemes
 ```bash
 pip install streamlit
 streamlit run app.py
+
