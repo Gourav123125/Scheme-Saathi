@@ -1,0 +1,64 @@
+[
+  {
+    "name": "PM Kisan Samman Nidhi",
+    "occupation": "farmer",
+    "max_land": 2,
+    "benefit": "₹6000 annual income support for small and marginal farmers",
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "occupation": "farmer",
+    "benefit": "Crop insurance against natural calamities and crop loss",
+    "link": "https://pmfby.gov.in"
+  },
+  {
+    "name": "National Scholarship Portal Schemes",
+    "education_level": "school",
+    "benefit": "Scholarships for students from various categories",
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "name": "Beti Bachao Beti Padhao",
+    "gender": "female",
+    "education_level": "school",
+    "benefit": "Support for education and welfare of girl children",
+    "link": "https://wcd.gov.in/bbbp-schemes"
+  },
+  {
+    "name": "Ayushman Bharat – PMJAY",
+    "benefit": "Health insurance cover up to ₹5 lakh per family per year",
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "name": "Atal Pension Yojana",
+    "occupation": "worker",
+    "min_age": 18,
+    "benefit": "Monthly pension for unorganized sector workers",
+    "link": "https://www.npscra.nsdl.co.in/scheme-details.php"
+  },
+  {
+    "name": "PM Kaushal Vikas Yojana",
+    "min_age": 18,
+    "benefit": "Free skill training and certification for youth",
+    "link": "https://www.pmkvyofficial.org"
+  },
+  {
+    "name": "Mahila E-Haat",
+    "gender": "female",
+    "benefit": "Online platform to support women entrepreneurs",
+    "link": "https://mahilaehaat-rmk.gov.in"
+  },
+  {
+    "name": "National Social Assistance Programme – Widow Pension",
+    "gender": "female",
+    "benefit": "Monthly pension support for widowed women",
+    "link": "https://nsap.nic.in"
+  },
+  {
+    "name": "Senior Citizen Health Insurance Scheme",
+    "min_age": 60,
+    "benefit": "Health insurance support for senior citizens",
+    "link": "https://www.india.gov.in/spotlight/senior-citizens"
+  }
+]
